@@ -8,6 +8,9 @@ import javax.inject.Singleton;
 import javax.ws.rs.NotFoundException;
 
 @Singleton
+
+
+
 public class PersonDatabase {
 
     List<Person> persons;
