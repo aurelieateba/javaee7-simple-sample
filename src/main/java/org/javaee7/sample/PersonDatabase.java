@@ -24,7 +24,7 @@ Moi c'est Aurelie ATEBA'
                 new Person("Raj"), 
                 new Person("Priya"));
     }
-
+partagez des gateaux au maximum
     public Person[] currentList() {
         return persons.toArray(new Person[0]);
     }
